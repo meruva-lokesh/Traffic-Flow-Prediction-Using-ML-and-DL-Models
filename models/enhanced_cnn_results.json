@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.9269999861717224,
+  "precision": 0.9262900740066261,
+  "recall": 0.927,
+  "f1_score": 0.9262088598300715,
+  "best_val_accuracy": 0.9275000095367432,
+  "final_train_accuracy": 0.9915624856948853
+}

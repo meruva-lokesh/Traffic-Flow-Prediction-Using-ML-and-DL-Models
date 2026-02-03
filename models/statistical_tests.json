@@ -1,0 +1,12 @@
+{
+  "mcnemar_test": {
+    "cnn_vs_decision_tree": {
+      "cnn_correct_dt_wrong": 91,
+      "dt_correct_cnn_wrong": 36,
+      "p_value": 0.0,
+      "statistic": 0.0,
+      "significant": true,
+      "interpretation": "CNN significantly outperforms Decision Tree"
+    }
+  }
+}
